@@ -1,2 +1,2 @@
 # ckannas.github.io
-Christos Kannas' homepage.
+[Christos Kannas resume](https://registry.jsonresume.org/ckannas)
